@@ -32,4 +32,4 @@ Escrita de código limpo, bem organizado e funcional.
 
 👩‍💻 Desenvolvido por Laura Fantini Souza Ferreira
 Curso: Análise e Desenvolvimento de Sistemas – Unicesumar
-Ano: 2025
+Ano: 2024
